@@ -6,7 +6,7 @@ remote_theme: sylhare/Type-on-Strap
 title: titletest
 subtitle: subtitletest lorem ipsum
 avatar: assets/img/avatar.png
+header_text: headertext
 
-# Social media links
 github_username: magnegram
 twitter_username: magnegramm
