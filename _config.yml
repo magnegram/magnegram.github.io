@@ -5,6 +5,7 @@ remote_theme: sylhare/Type-on-Strap
 
 title: Magnegram's Projects
 avatar: assets/img/favicon.png
-header_text: Welcome to my project website! I just made this and IDK how to figure any of this out, you shouldn't be here anyway.
+favicon: assets/img/favicon.png
+header_text: Welcome to my project website! I just made this and IDK how to figure any of this out, you shouldn't be here anyway. Check back later!
 
 github_username: magnegram
