@@ -2,3 +2,11 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: sylhare/Type-on-Strap
+
+title: titletest
+subtitle: subtitletest lorem ipsum
+avatar: assets/img/avatar.png
+
+# Social media links
+github_username: magnegram
+twitter_username: magnegramm
