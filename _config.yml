@@ -8,4 +8,5 @@ avatar: assets/img/favicon.png
 favicon: assets/img/favicon.png
 header_text: Welcome to my project website! I just made this and IDK how to figure any of this out, you shouldn't be here anyway. Check back later!
 
-github_username: magnegram
+footer:
+  text: "Testing"
